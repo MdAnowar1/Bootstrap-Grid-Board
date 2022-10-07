@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background-color: #E5E5E5;
+}
+.header-class{
+    width: 870px;
+    height: 670px;
+    margin-left: 250px;
+    margin-top: 30px;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+}
